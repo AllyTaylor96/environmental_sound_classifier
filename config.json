@@ -1,0 +1,7 @@
+{
+	"raw_audio_dir": "/home/ally_taylor/code/environmental_sound_classifier/data/raw",
+	"processed_audio_dir": "/home/ally_taylor/code/environmental_sound_classifier/data/processed",
+	"spec_n_fft": 1024,
+	"spec_win_length": 1024,
+	"spec_hop_length": 512
+}
